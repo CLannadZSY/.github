@@ -5,9 +5,9 @@
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CLannadZSY&hide=HTML&theme=dracula&show_icons=true" />
 </p>
 
-## My Technology Stack
+<!--My Technology Stack-->
 
-<table>
+<!--<table>
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
@@ -64,4 +64,4 @@
       </td>
     </tr>
   </tbody>
-</table>
+</table>-->
